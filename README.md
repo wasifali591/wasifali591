@@ -38,8 +38,8 @@ A passionate Software Engineer from India with 5 years of expertise. Specializes
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasifali591&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasifali591&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasifali591)](https://github.com/anuraghazra/github-readme-stats)
+[![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasifali591&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wasifali591&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wasifali591&layout=compact)](https://git.io/streak-stats)
