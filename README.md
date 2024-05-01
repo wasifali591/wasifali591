@@ -1,4 +1,11 @@
-### Hi 👋, I am Md Wasif Ali
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+Hi 👋, I am Md Wasif Ali
+</div>
+
+---
 
 <!--
 **wasifali591/wasifali591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
