@@ -12,6 +12,9 @@ Hi 👋, I am Md Wasif Ali
 
 Here are some ideas to get you started:
 -->
+<p>
+A passionate Software Engineer from India with 5 years of expertise. Specializes in developing scalable and reliable ERP, CRM, E-Commerce, and Web services. Proficient in Java, Angular, and adept at collaborating with agile teams. Eager learner, always adapting to new tech.
+</p>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=wasifali591&style=flat-square&color=blue" alt=""/>
 </div>
