@@ -12,6 +12,9 @@ Hi 👋, I am Md Wasif Ali
 
 Here are some ideas to get you started:
 -->
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=wasifali591&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 🔭 I’m currently working on SpringBoot Projects
 - 🌱 I’m currently learning System Design & Cloud Technologies
