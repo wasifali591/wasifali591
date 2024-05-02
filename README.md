@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Md Wasif Ali</h1>
-<h3 align="left">A passionate Software Engineer from India with 5 years of expertise. Specializes in developing scalable and reliable ERP, CRM, E-Commerce, and Web services. Proficient in Java, Angular and adept at collaborating with agile teams. Eager learner, always adapting to new tech.</h3>
+<h3 align="center">Hi 👋, I'm Md Wasif Ali</h3>
+<h4 align="left">A passionate Software Engineer from India with 5 years of expertise. Specializes in developing scalable and reliable ERP, CRM, E-Commerce, and Web services. Proficient in Java, Angular and adept at collaborating with agile teams. Eager learner, always adapting to new tech.</h4>
 
 ---
 
